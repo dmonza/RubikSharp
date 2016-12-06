@@ -14,7 +14,7 @@ Table of Contents
   * [Licence](LICENSE.md)
 
 ## Introduction
-I start this framework on 2015 and a  leave for a while. Now I do some fixes and is publish for everyone who like to play with it.
+I start this framework on 2015 and a  leave for a while. Now I do some fixes and was published for who like to play with it.
 
 ## Moves
 The moves language is: [Axis][Rotor].[Count]
