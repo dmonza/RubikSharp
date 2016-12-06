@@ -1,0 +1,33 @@
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\obj\x86\Debug\MonzaRubikCubeLib.Properties.Resources.resources
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\obj\x86\Debug\MonzaRubikCube.csproj.GenerateResource.Cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\bin\Debug\MonzaRubikCube.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\bin\Debug\MonzaRubikCube.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\obj\x86\Debug\MonzaRubikCube.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\obj\x86\Debug\MonzaRubikCube.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\MonzaRubikCubeLib\bin\Debug\MonzaRubikLib.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\MonzaRubikCubeLib\bin\Debug\MonzaRubikLib.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.Properties.Resources.resources
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikCube.csproj.GenerateResource.Cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\MonzaRubikCubeLib\bin\Debug\MonzaRubikLib.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\MonzaRubikCubeLib\bin\Debug\MonzaRubikLib.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.Properties.Resources.resources
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikCube.csproj.GenerateResource.Cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikCube.csprojResolveAssemblyReference.cache
+D:\Develop\fun\RubikCube\CSharp\MonzaRubikCubeLib\bin\Debug\MonzaRubikLib.dll
+D:\Develop\fun\RubikCube\CSharp\MonzaRubikCubeLib\bin\Debug\MonzaRubikLib.pdb
+D:\Develop\fun\RubikCube\CSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikCube.csprojResolveAssemblyReference.cache
+D:\Develop\fun\RubikCube\CSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.Properties.Resources.resources
+D:\Develop\fun\RubikCube\CSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikCube.csproj.GenerateResource.Cache
+D:\Develop\fun\RubikCube\CSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.dll
+D:\Develop\fun\RubikCube\CSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.pdb
+D:\Develop\fun\RubikSharp\MonzaRubikCubeLib\bin\Debug\MonzaRubikLib.dll
+D:\Develop\fun\RubikSharp\MonzaRubikCubeLib\bin\Debug\MonzaRubikLib.pdb
+D:\Develop\fun\RubikSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.Properties.Resources.resources
+D:\Develop\fun\RubikSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikCube.csproj.GenerateResource.Cache
+D:\Develop\fun\RubikSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.dll
+D:\Develop\fun\RubikSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikLib.pdb
+D:\Develop\fun\RubikSharp\MonzaRubikCubeLib\obj\x86\Debug\MonzaRubikCube.csprojResolveAssemblyReference.cache

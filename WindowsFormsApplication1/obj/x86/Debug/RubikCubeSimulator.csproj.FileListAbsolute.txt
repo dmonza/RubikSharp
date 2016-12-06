@@ -1,0 +1,40 @@
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainUI.resources
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\RubikCubeSimulator.csproj.GenerateResource.Cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\bin\Debug\MonzaRubikCube.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\bin\Debug\MonzaRubikCube.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\RubikCubeSimulator.csprojResolveAssemblyReference.cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainUI.resources
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\RubikCubeSimulator.csproj.GenerateResource.Cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\WindowsFormsApplication1\bin\Debug\MonzaRubikLib.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\WindowsFormsApplication1\bin\Debug\MonzaRubikLib.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\RubikCubeSimulator.csprojResolveAssemblyReference.cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Develop\fun\RubikCube\CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Develop\fun\RubikCube\CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Develop\fun\RubikCube\CSharp\WindowsFormsApplication1\bin\Debug\MonzaRubikLib.dll
+D:\Develop\fun\RubikCube\CSharp\WindowsFormsApplication1\bin\Debug\MonzaRubikLib.pdb
+D:\Develop\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\RubikCubeSimulator.csprojResolveAssemblyReference.cache
+D:\Develop\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainUI.resources
+D:\Develop\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Develop\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\RubikCubeSimulator.csproj.GenerateResource.Cache
+D:\Develop\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Develop\fun\RubikCube\CSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Develop\fun\RubikSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Develop\fun\RubikSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Develop\fun\RubikSharp\WindowsFormsApplication1\obj\x86\Debug\RubikCubeSimulator.csprojResolveAssemblyReference.cache
+D:\Develop\fun\RubikSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainUI.resources
+D:\Develop\fun\RubikSharp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Develop\fun\RubikSharp\WindowsFormsApplication1\obj\x86\Debug\RubikCubeSimulator.csproj.GenerateResource.Cache
+D:\Develop\fun\RubikSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Develop\fun\RubikSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Develop\fun\RubikSharp\WindowsFormsApplication1\bin\Debug\MonzaRubikLib.dll
+D:\Develop\fun\RubikSharp\WindowsFormsApplication1\bin\Debug\MonzaRubikLib.pdb

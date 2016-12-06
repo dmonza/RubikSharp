@@ -1,0 +1,21 @@
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\ConsoleApplication1\obj\x86\Debug\RubricCubeCmd.csprojResolveAssemblyReference.cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\ConsoleApplication1\bin\Debug\ProcessCube.exe
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\ConsoleApplication1\bin\Debug\ProcessCube.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\ConsoleApplication1\obj\x86\Debug\ProcessCube.exe
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\ConsoleApplication1\obj\x86\Debug\ProcessCube.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\ConsoleApplication1\bin\Debug\MonzaRubikCube.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\ConsoleApplication1\bin\Debug\MonzaRubikCube.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\ConsoleApplication1\bin\Debug\ProcessCube.exe
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\ConsoleApplication1\bin\Debug\ProcessCube.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\ConsoleApplication1\bin\Debug\MonzaRubikLib.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\ConsoleApplication1\bin\Debug\MonzaRubikLib.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\ConsoleApplication1\obj\x86\Debug\RubricCubeCmd.csprojResolveAssemblyReference.cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\ConsoleApplication1\obj\x86\Debug\ProcessCube.exe
+C:\Users\dmonza\Cloud\Google Drive\fun\RubikCube\CSharp\ConsoleApplication1\obj\x86\Debug\ProcessCube.pdb
+D:\Develop\fun\RubikSharp\ConsoleApplication1\obj\x86\Debug\RubricCubeCmd.csprojResolveAssemblyReference.cache
+D:\Develop\fun\RubikSharp\ConsoleApplication1\obj\x86\Debug\ProcessCube.exe
+D:\Develop\fun\RubikSharp\ConsoleApplication1\obj\x86\Debug\ProcessCube.pdb
+D:\Develop\fun\RubikSharp\ConsoleApplication1\bin\Debug\ProcessCube.exe
+D:\Develop\fun\RubikSharp\ConsoleApplication1\bin\Debug\ProcessCube.pdb
+D:\Develop\fun\RubikSharp\ConsoleApplication1\bin\Debug\MonzaRubikLib.dll
+D:\Develop\fun\RubikSharp\ConsoleApplication1\bin\Debug\MonzaRubikLib.pdb

@@ -1,0 +1,13 @@
+C:\Users\dmonza\AppData\Local\Temporary Projects\RubricCube\bin\Debug\RubricCube.exe
+C:\Users\dmonza\AppData\Local\Temporary Projects\RubricCube\bin\Debug\RubricCube.pdb
+C:\Users\dmonza\AppData\Local\Temporary Projects\RubricCube\obj\x86\Debug\RubricCube.Properties.Resources.resources
+C:\Users\dmonza\AppData\Local\Temporary Projects\RubricCube\obj\x86\Debug\RubricCube.csproj.GenerateResource.Cache
+C:\Users\dmonza\AppData\Local\Temporary Projects\RubricCube\obj\x86\Debug\RubricCube.exe
+C:\Users\dmonza\AppData\Local\Temporary Projects\RubricCube\obj\x86\Debug\RubricCube.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\obj\x86\Debug\RubricCube.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\bin\Debug\RubricCube.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\obj\x86\Debug\RubricCube.csproj.GenerateResource.Cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\obj\x86\Debug\RubricCube.csprojResolveAssemblyReference.cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\bin\Debug\RubricCube.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\obj\x86\Debug\RubricCube.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\RubricCube\obj\x86\Debug\RubricCubeLib.Properties.Resources.resources

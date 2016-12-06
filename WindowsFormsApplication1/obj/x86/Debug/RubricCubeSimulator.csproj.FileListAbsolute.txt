@@ -1,0 +1,10 @@
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\bin\Debug\RubricCube.dll
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\bin\Debug\RubricCube.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\RubricCubeSimulator.csprojResolveAssemblyReference.cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\RubricCubeSimulator.csproj.GenerateResource.Cache
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\dmonza\Cloud\Google Drive\fun\RubricCube\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainUI.resources
